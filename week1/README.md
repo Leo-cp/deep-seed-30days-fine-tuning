@@ -4,7 +4,7 @@ Welcome to the first week of your 30-Day Fine-Tuning & Model Training journey. T
 
 ## 📅 Daily Schedule & Roadmap
 
-- [ ] **Day 1: Why Fine-Tune?**
+- [x] **Day 1: Why Fine-Tune?**
   - *Goal:* Master the decision matrix of when to fine-tune vs. prompt engineering/RAG.
   - *Key Concepts:* Specialist vs. Generalist, cost-efficiency (7B vs. GPT-4), formatting constraints, dataset thresholds (<500 examples).
   - *Deliverable:* Complete the decision evaluation tool in [`day1/`](file:///c:/Users/USER/Desktop/DEEPSEED/deep-seed-30days-fine-tuning/week1/day1).
