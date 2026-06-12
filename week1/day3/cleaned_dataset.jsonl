@@ -1,0 +1,4 @@
+{"instruction": "Write a python function to add two numbers.", "input": "", "output": "def add(a, b): return a + b"}
+{"instruction": "Create a list comprehension in python that filters even numbers.", "input": "", "output": "[x for x in my_list if x % 2 == 0]"}
+{"instruction": "Solve for x: 2x + 5 = 15.", "input": "", "output": "2x = 10 x = 5"}
+{"instruction": "Translate the sentence 'Hello world' to Spanish.", "input": "", "output": "Hola mundo"}

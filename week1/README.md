@@ -9,7 +9,7 @@ Welcome to the first week of your 30-Day Fine-Tuning & Model Training journey. T
   - *Key Concepts:* Specialist vs. Generalist, cost-efficiency (7B vs. GPT-4), formatting constraints, dataset thresholds (<500 examples).
   - *Deliverable:* Complete the decision evaluation tool in [`day1/`](file:///c:/Users/USER/Desktop/DEEPSEED/deep-seed-30days-fine-tuning/week1/day1).
 
-- [ ] **Day 2: Hugging Face Ecosystem**
+- [x] **Day 2: Hugging Face Ecosystem**
   - *Goal:* Navigate the Hugging Face Hub, model classes, and load your first large model.
   - *Key Concepts:* `transformers`, `datasets`, `peft`, `trl`, `accelerate`.
   - *Deliverable:* Load Qwen2.5-7B, run local inference, and set up your Hugging Face Hub account.
